@@ -1,0 +1,1 @@
+# gittlab-pipeline-stage
